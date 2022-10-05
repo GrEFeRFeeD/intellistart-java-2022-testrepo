@@ -12,4 +12,4 @@ jobs:
         with:
           project: TestProject
           column: In progress
-          repo-token: ${{ secrets.REPO_ISSSUE_TOKEN }}
+          repo-token: ${{ secrets.REPO_ISSUE_TOKEN }}
